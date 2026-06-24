@@ -1,2 +1,3 @@
 # base7-network2026
 all eyes on base 7
+hello basenetwork7
